@@ -1,1 +1,1 @@
-# store-func
+# store-class
